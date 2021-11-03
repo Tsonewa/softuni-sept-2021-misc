@@ -5,6 +5,7 @@ public class UserLoginServiceModel {
   private String username;
   private String rawPassword;
 
+
   public String getUsername() {
     return username;
   }
